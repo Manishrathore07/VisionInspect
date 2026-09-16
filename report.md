@@ -7,13 +7,13 @@
 | Field | Details |
 | :--- | :--- |
 | **Project Title** | VisionInspect: Automated Industrial Surface Defect Detection & Quality Inspection System |
-| **Course Domain** | Computer Vision (Flipped Course Evaluated Project) |
-| **Platform** | VITyarthi |
-| **Submission Mode** | GitHub Public Repository + PDF Technical Report |
-| **Author / Student Name** | [Student Name] |
-| **Registration Number** | [Registration Number] |
+| **Course Domain / Code** | CSE3010 – Computer Vision (Flipped Course Evaluated Project) |
+| **Platform / Institution** | VITyarthi / Vellore Institute of Technology (VIT) |
+| **Student Name** | Manish Kumar Rathore |
+| **Registration Number** | 24BAI10931 |
+| **Course Faculty** | Mr. Prakash N. B |
 | **Academic Year / Semester** | 2025 – 2026 |
-| **Repository URL** | `https://github.com/<your-username>/VisionInspect` |
+| **Public GitHub Repository** | `https://github.com/Manishrathore07/VisionInspect` |
 | **Date of Submission** | September 2026 |
 
 ---
